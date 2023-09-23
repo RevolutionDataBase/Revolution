@@ -67,7 +67,13 @@ width: 30px;
 }
 
 
-.btn_home:hover {
+.btn_home_juegos:hover {
+  background-color: #bbbbbb;
+  margin-top: 2%;
+  box-shadow: 0px 0px 8px 0px;
+}
+
+.btn_home_index:hover {
   background-color: #bbbbbb;
   margin-top: 2%;
   box-shadow: 0px 0px 8px 0px;
