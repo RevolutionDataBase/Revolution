@@ -36,7 +36,7 @@ width: 30px;
  height: 96%;
 }
   
-.btn_home {
+.btn_home_juegos {
   border-radius: 15px;
   height: 20%;
   width: 28%;
@@ -50,6 +50,22 @@ width: 30px;
   background-repeat: no-repeat;
   box-shadow: 0px 0px 8px 0px;
 }
+
+.btn_home_index {
+  border-radius: 15px;
+  height: 20%;
+  width: 28%;
+  padding: 5px;
+  border-width: 0px;
+  background-color: #232323;
+  transition: 0.2s;
+  margin-top: 1%;
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  box-shadow: 0px 0px 8px 0px;
+}
+
 
 .btn_home:hover {
   background-color: #bbbbbb;
@@ -110,6 +126,12 @@ height: 150px;
  float: left;
  margin-left: 3px;
 }
+
+.ps3_img_archivos {
+  width: 20px;
+  float: left;
+  margin-left: 3px;
+ }
 
 div#container {
   width: 78.2%;
