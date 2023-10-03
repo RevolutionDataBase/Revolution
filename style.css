@@ -13,14 +13,17 @@ width: 30px;
 }
 
 .banner {
-  border-radius: 5px;
-  box-shadow: 0px 0px 8px 0px;
   background-repeat: no-repeat;
+  background-size: auto;
   background-position: center;
-  background-image: url("images/banner.png");
-  margin-top: 1%;
-  width: 96%;
-  height: 96%;
+  background-image: url(images/banner.png);
+  height: 300px;
+  width: 350px;
+  margin-top: 2%;
+  box-shadow: 0px 0px 8px 4px #191919;
+  border-radius: 15px;
+  border-width: 15px;
+  margin-left: 2%;
  }
 
 .btn_home_juegos {
@@ -90,7 +93,7 @@ box-shadow: 0px 0px 0px 2px #000000;
 footer {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: inherit;
   box-shadow: 0px 0px 0px 0px;
 }  
   
