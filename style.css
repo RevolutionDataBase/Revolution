@@ -105,7 +105,7 @@ html {
   auto;
 }
 
-a:hover {
+a {
   cursor: url("images/handy.png"),
     auto;
 }
