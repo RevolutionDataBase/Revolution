@@ -118,3 +118,11 @@ div#container {
   float: left;
   margin-left: 4%;
 }
+
+body {
+  cursor: url("images/handyopen.png");
+}
+
+a {
+  cursor: url("images/handy.png");
+}
