@@ -120,11 +120,11 @@ div#container {
 }
 
 html {
-  cursor: url("imagenes/handyopen.png"),
+  cursor: url("images/handyopen.png"),
   auto;
 }
 
 a:hover {
-  cursor: url("imagenes/handy.png"),
+  cursor: url("images/handy.png"),
     auto;
 }
