@@ -119,10 +119,12 @@ div#container {
   margin-left: 4%;
 }
 
-body {
-  cursor: url("images/handyopen.png");
+html {
+  cursor: url("imagenes/handyopen.png"),
+  auto;
 }
- 
-a {
-  cursor: url("images/handy.png");
+
+a:hover {
+  cursor: url("imagenes/handy.png"),
+    auto;
 }
