@@ -27,21 +27,6 @@
   box-shadow: 3px 3px 0px 0px;
 }
 
-.btn_home_index {
-  border-radius: 15px;
-  height: 20%;
-  width: 28%;
-  padding: 5px;
-  border-radius: 5px;
-  border-width: 0px;
-  background-color: #866D41;
-  transition: 0.2s;
-  margin-top: 1%;
-  background-position: center;
-  background-size: 100%;
-  background-repeat: no-repeat;
-  box-shadow: 3px 3px 0px 0px;
-}
 
 
 .btn_home_juegos:hover {
@@ -49,10 +34,6 @@
   box-shadow: 1px 1px 0px 0px;
 }
 
-.btn_home_index:hover {
-  margin-top: 2%;
-  box-shadow: 1px 1px 0px 0px;
-}
 
 .btn_home_header {
 font-size: 30;
