@@ -8,7 +8,6 @@ margin-top: 8px;
 margin-right: 8px;
 }
 
-
 .hr_info {
 width: 30px;
 }
@@ -16,7 +15,6 @@ width: 30px;
 .banner {
   border-radius: 5px;
   box-shadow: 0px 0px 8px 0px;
-  border-color: #00115D;
   background-repeat: no-repeat;
   background-position: center;
   background-image: url("images/banner.png");
@@ -25,17 +23,6 @@ width: 30px;
   height: 96%;
  }
 
-.ad {
- padding: 1%;
- border-radius: 15px;
- box-shadow: 0px 0px 8px 0px;
- border-color: #00115D;
- background-color: #232323;
- margin-top: 1%;
- width: 96%;
- height: 96%;
-}
-  
 .btn_home_juegos {
   border-radius: 15px;
   height: 20%;
@@ -89,11 +76,6 @@ margin-top: 4%;
 box-shadow: 0px 0px 8px 4px #191919;
 }
 
-.version_txt {
-font-size: 10px;
-}
-
-  
 .trxtext {
 font-family: Zen Dots;
 }
